@@ -1,5 +1,0 @@
-https://github.com/
-http://githowto.com/
-http://gitref.org/
-http://how-to-do.org/yak-pracyuvaty-v-git/
-http://habrahabr.ru/blogs/Git/60347/
